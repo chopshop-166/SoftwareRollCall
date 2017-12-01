@@ -1,4 +1,5 @@
 The following people have passed the software git training for 2018:
+The following students have passed the software git training for 2018:
 
 All the mentors
 Quinlan Duval
@@ -7,3 +8,4 @@ Sean Trimper 9th grade
 Andrew Martin
 Josh
 Matthew David Majchrzak, esq.
+ALEX!!!!!
