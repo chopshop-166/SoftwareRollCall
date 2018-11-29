@@ -1,3 +1,4 @@
 The following people have passed the software git training for 2019:
 
 All the mentors
+Evan Jalbert
