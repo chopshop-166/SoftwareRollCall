@@ -1,5 +1,6 @@
 The following people have passed the software git training for 2019:
 Rohan Sreenivasan!
+Jeffrey Burke
 Sammy
 Austin Ford
 George
